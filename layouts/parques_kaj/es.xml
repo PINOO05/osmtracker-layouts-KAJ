@@ -7,26 +7,26 @@
 			<button type="textnote" icon="text_32x32" />
 		</row>
 		<row>
-			<button type="tag" label="EdificioSSSS" icon="/parques_icons/inicio_acera.png" />
-			<button type="tag" label="Tipo de Suelo" icon="/parques_icons/fin_acera.png" />
+			<button type="tag" label="EdificioSSSS" icon="/parques_kaj_icons/inicio_acera.png" />
+			<button type="tag" label="Tipo de Suelo" icon="/parques_kaj_icons/fin_acera.png" />
 		</row>
 		<row>
-			<button type="tag" label="Árbol" icon="/parques_icons/arbol.png" />
-			<button type="tag" label="Banca" icon="/parques_icons/banca.png" />
-			<button type="tag" label="Basurero" icon="/parques_icons/basurero.png" />
+			<button type="tag" label="Árbol" icon="/parques_kaj_icons/arbol.png" />
+			<button type="tag" label="Banca" icon="/parques_kaj_icons/banca.png" />
+			<button type="tag" label="Basurero" icon="/parques_kaj_icons/basurero.png" />
 		</row>
 		<row>
-			<button type="tag" label="Mesas" icon="/parques_icons/estatua.png" />
-			<button type="tag" label="Bebedero" icon="/parques_icons/gym.png" />
-			<button type="tag" label="Playground" icon="/parques_icons/playground.png" />
+			<button type="tag" label="Mesas" icon="/parques_kaj_icons/estatua.png" />
+			<button type="tag" label="Bebedero" icon="/parques_kaj_icons/gym.png" />
+			<button type="tag" label="Playground" icon="/parques_kaj_icons/playground.png" />
 		</row>
 		<row>
-			<button type="tag" label="Poste de Luz" icon="/parques_icons/luz.png" />
-			<button type="tag" label="Casetilla de Guarda" icon="/parques_icons/camara.png" />
+			<button type="tag" label="Poste de Luz" icon="/parques_kaj_icons/luz.png" />
+			<button type="tag" label="Casetilla de Guarda" icon="/parques_kaj_icons/camara.png" />
 		</row>
 		<row>
-			<button type="tag" label="Parada de bus" icon="/parques_icons/parada_bus.png" />
-			<button type="tag" label="Basurero" icon="/parques_icons/parqueo_bici.png" />
+			<button type="tag" label="Parada de bus" icon="/parques_kaj_icons/parada_bus.png" />
+			<button type="tag" label="Basurero" icon="/parques_kaj_icons/parqueo_bici.png" />
 		</row>
 	</layout>
 
