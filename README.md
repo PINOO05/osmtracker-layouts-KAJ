@@ -23,5 +23,5 @@ This is OSMTracker's default repository for download custom layouts functionalit
 + [Walk Ride Detailed.](https://github.com/Nick-Tallguy/osmtracker-android-layouts/blob/master/layouts/walk_ride_detailed/readme.md)
 + [Water Supplies.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/water_supply/README.md)
 + [Instituciones Educativas.](https://github.com/Sebco27/osmtracker-layouts/blob/master/layouts/instituciones_educativas/README.md)
-+ [Parques KAJ.](https://github.com/PINOO05/osmtracker-layouts-KAJ/blob/master/layouts/parques/README.md)
++ [Parques KAJ.](https://github.com/PINOO05/osmtracker-layouts-KAJ/blob/master/layouts/parques_kaj/README.md)
 
