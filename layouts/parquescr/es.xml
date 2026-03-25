@@ -13,11 +13,12 @@
 		<row>
 			<button type="tag" label="Árbol con arbustos" icon="/parques_icons/arbol.png" />
 			<button type="tag" label="Banca" icon="/parques_icons/banca.png" />
+			<button type="tag" label="Arbol sin arbusto" icon="/parques_icons/estatua.png" />
 		</row>
 		<row>
-			<button type="tag" label="Estatua/Monumento" icon="/parques_icons/estatua.png" />
 			<button type="tag" label="Mesas" icon="/parques_icons/gym.png" />
 			<button type="tag" label="Playground de Niños" icon="/parques_icons/playground.png" />
+			<button type="tag" label="Bebedero" icon="/parques_icons/parqueo_bici.png" />
 		</row>
 		<row>
 			<button type="tag" label="Poste de luz" icon="/parques_icons/luz.png" />
@@ -25,7 +26,6 @@
 		</row>
 		<row>
 			<button type="tag" label="Parada de bus" icon="/parques_icons/parada_bus.png" />
-			<button type="tag" label="Bebedero" icon="/parques_icons/parqueo_bici.png" />
 			<button type="tag" label="Basurero" icon="/parques_icons/basurero.png" />
 		</row>
 	</layout>
