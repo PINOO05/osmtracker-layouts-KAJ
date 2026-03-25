@@ -7,7 +7,7 @@
 			<button type="textnote" icon="text_32x32" />
 		</row>
 		<row>
-			<button type="tag" label="Edificio" icon="/parques_icons/inicio_acera.png" />
+			<button type="tag" label="EdificioSSSS" icon="/parques_icons/inicio_acera.png" />
 			<button type="tag" label="Tipo de Suelo" icon="/parques_icons/fin_acera.png" />
 		</row>
 		<row>
